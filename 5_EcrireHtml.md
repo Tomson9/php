@@ -1,8 +1,7 @@
+## 📌 ***Exemple simple : HTML + PHP***
 En PHP, tu peux écrire du **HTML** directement dans un fichier `.php`. PHP est conçu pour être utilisé avec du HTML afin de générer des pages web dynamiques.  
 
----
 
-## **📌 Exemple simple : HTML + PHP**
 Tu peux mélanger **HTML** et **PHP** comme ceci :  
 
 ```php
@@ -24,7 +23,7 @@ Tu peux mélanger **HTML** et **PHP** comme ceci :
 
 ---
 
-## **📌 Explication :**
+## 📌 **Explication :**
 1. **Le fichier `.php` contient du HTML** normal.
 2. **Le code PHP est inséré entre `<?php ... ?>`**.
 3. **La fonction `echo` affiche du texte** dans la page HTML.
@@ -33,7 +32,7 @@ Tu peux mélanger **HTML** et **PHP** comme ceci :
 
 ---
 
-## **🚀 Exécution du code**
+## 🚀 **Exécution du code**
 Si tu as suivi mes étapes précédentes :
 1. **Crée un fichier `index.php`**.
 2. **Colle le code ci-dessus dedans**.
@@ -47,7 +46,7 @@ Si tu as suivi mes étapes précédentes :
    ```
    Tu verras ta page HTML avec du texte généré par PHP ! 🎉
 
-5. **Complete ton code avec 3 autres paragraphes generer pas php 🧐**
+5. **Complete ton code avec 3 autres paragraphes generer par php 🧐**
 ---
 
 

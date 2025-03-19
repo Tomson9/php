@@ -6,19 +6,19 @@
 
 ⌨️ 3. Choisir un éditeur de texte
 
-⌨️ 4. Hello World & Setup
+⌨️ 4. Hello World 
 
 ⌨️ 5. Ecrire du code HTML
 
-⌨️ 6. Variables
+⌨️ 6. Variables, Types de données
 
-⌨️ 7. Types de données
+⌨️ 7. chaines de caractères
 
-⌨️ 8. Travailler avec des chaines de caractères
+⌨️ 8. Commentaires
 
-⌨️ 9. Travailler avec des nombres
+⌨️ 9. Obtenir une entrée utilisateur
 
-⌨️ 10. Obtenir une entrée utilisateur
+⌨️ 10. Test de connaissance
 
 ⌨️ 11. Construire une calculatrice basique
 

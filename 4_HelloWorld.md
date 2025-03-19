@@ -1,8 +1,8 @@
-### 🚀 **Écrire un "Hello World" avec PHP et son serveur intégré**  
+### 🚀 ***Écrire un "Hello World" avec PHP et son serveur intégré*** 
 
 Voici la manière la plus simple de faire un **Hello World** en PHP avec le serveur intégré de PHP. 
 
-## ** Créer un fichier PHP**
+## **Créer un fichier PHP**
 1. Ouvre **VS Code** .  
 2. Crée un dossier `hello_php` où tu veux (par exemple dans `C:\laragon\www\` si tu utilises laragon, sinon sur le Bureau).  
 3. Dans ce dossier, crée un fichier nommé `index.php` et mets ce code dedans :
@@ -13,7 +13,7 @@ echo "Hello, World!";
 ```
 --- 
 
-## **3️⃣ Lancer le serveur PHP**
+## **Lancer le serveur PHP**
 1. Ouvre un terminal (CMD ou PowerShell).  
 2. Va dans le dossier où se trouve `index.php`, par exemple :  
    ```sh
