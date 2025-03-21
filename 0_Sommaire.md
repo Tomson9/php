@@ -2,7 +2,9 @@
 
 ⌨️ 1. Introduction
 
-⌨️ 2. Installation de Windows
+⌨️ 2. Installation de Windowsmultidimensionnels
+
+⌨️ 2. Installation de Windowsmultidimensionnels
 
 ⌨️ 3. Choisir un éditeur de texte
 
@@ -28,40 +30,40 @@
 
 ⌨️ 14. POST vs GET
 
-⌨️ 15. Tableaux
+⌨️ 15. Tableaux indexés et Tableaux associatifs
 
-⌨️ 16. Utilisation de cases à cocher
+⌨️ 16. Tableaux multidimensionnels
 
-⌨️ 17. Tableaux associatifs
+⌨️ 17. Structures de controle
 
 ⌨️ 18. Fonctions
 
-⌨️ 19. Déclarations "return"
+⌨️ 19. Série d'exercices
 
-⌨️ 20. Déclaration "if"
+⌨️ 20. Construire un meilleur calculateur
 
-⌨️ 21. Déclarations "if" (suite)
+⌨️ 21. Inclure du code HTML
 
-⌨️ 22. Construire un meilleur calculateur
+⌨️ 22. Inclure: PHP
 
-⌨️ 23. Instructions de changement
+⌨️ 23. Classes et objets
 
-⌨️ 24. Pendant que les boucles
+⌨️ 24. Constructeurs
 
-⌨️ 25. Pour les boucles
+⌨️ 25. Fonctions d'objet - PHP - Tutoriel 31
 
-⌨️ 26. Commentaires
+⌨️ 26. Getters & Setters
 
-⌨️ 27. Inclure du code HTML
+⌨️ 27. Héritage
 
-⌨️ 28. Inclure: PHP
+⌨️ 28. 
 
-⌨️ 29. Classes et objets
+⌨️ 29. 
 
-⌨️ 30. Constructeurs
+⌨️ 30. 
 
-⌨️ 31. Fonctions d'objet - PHP - Tutoriel 31
+⌨️ 31. 
 
-⌨️ 32. Getters & Setters
+⌨️ 32. 
 
-⌨️ 33. Héritage
+⌨️ 33.
