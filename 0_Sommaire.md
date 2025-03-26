@@ -44,17 +44,17 @@
 
 ⌨️ 21. Inclure du code HTML
 
-⌨️ 22. Inclure: PHP
+⌨️ 22. Classes et objets
 
-⌨️ 23. Classes et objets
+⌨️ 23. Constructeurs et visibilité
 
-⌨️ 24. Constructeurs
+⌨️ 24. Héritage, polymorphisme, les classes abstraites et les interfaces
 
-⌨️ 25. Fonctions d'objet - PHP - Tutoriel 31
+⌨️ 25. Gestion des exceptions
 
-⌨️ 26. Getters & Setters
+⌨️ 26. Méthodes magiques
 
-⌨️ 27. Héritage
+⌨️ 27. Autoloading et espaces de noms
 
 ⌨️ 28. 
 
