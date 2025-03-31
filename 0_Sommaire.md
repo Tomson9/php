@@ -56,14 +56,20 @@
 
 ⌨️ 27. Autoloading et espaces de noms
 
-⌨️ 28. 
+⌨️ 28. $_SESSION
 
-⌨️ 29. 
+⌨️ 29. $_COOKIE
 
-⌨️ 30. 
+⌨️ 30. Fichiers
 
-⌨️ 31. 
+⌨️ 30.1 Bonus Fichiers : Manipulation des fichiers CSV, JSON et XML en PHP
 
-⌨️ 32. 
+⌨️ 31. Introduction à MySQL
+
+⌨️ 31.1 Sécurisation des requêtes MySQL
+
+⌨️ 32. Sécurisation avec JWT et Sessions en PHP
+
+⌨️ 32.1 Sécurité, OAuth, stockage sécurisé
 
 ⌨️ 33.
