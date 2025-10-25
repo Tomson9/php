@@ -46,7 +46,12 @@ Si tu as suivi mes étapes précédentes :
    ```
    Tu verras ta page HTML avec du texte généré par PHP ! 🎉
 
-5. **Complete ton code avec 3 autres paragraphes generer par php 🧐**
+Montrez en modifiant le nom du fichier que pour un bon fonctionnement d’une application PHP, il est impératif d’avoir un fichier ‘’index.php’’ car il sert de point d'entrée principal pour les requêtes
+
+5. <?= "je pense que je vais me plaire avec le PHP également ?>
+Quelle est la différence observée encre les deux lignes de PHP écrites.
+
+6. **Complete ton code avec 3 autres paragraphes generer par php 🧐**
 ---
 
 

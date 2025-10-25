@@ -53,6 +53,69 @@ PHP est un langage faiblement typé : tu peux changer le type d'une variable san
 | **Array (tableau)** | `$couleurs = ["Rouge", "Vert", "Bleu"];` |
 | **Object (objet)** | `class Voiture { public $marque = "Toyota"; }` |
 
+<!-- https://www.w3schools.com/php/php_casting.asp -->
+
+<!-- 
+// ----------------------------
+// Exemple 1 : echo
+// ----------------------------
+Usage : Affiche du texte ou des variables.
+Caractéristiques :
+Instruction (pas une fonction)
+Ne retourne rien
+Peut afficher plusieurs éléments séparés par des virgules
+
+$nom = "Alice";
+$age = 25;
+echo "<h3>echo</h3>";
+echo "Bonjour ", $nom, ", tu as ", $age, " ans.<br>";
+
+// ----------------------------
+// Exemple 2 : print
+// ----------------------------
+Usage : Affiche du texte ou une variable.
+Caractéristiques :
+Fonction qui retourne toujours 1
+Ne peut afficher qu’un seul argument
+Légèrement plus lent que echo
+
+$nom2 = "Bob";
+echo "<h3>print</h3>";
+$resultat = print("Salut " . $nom2 . "<br>");
+echo "Valeur retournée par print : " . $resultat . "<br>";
+
+// ----------------------------
+// Exemple 3 : print_r
+// ----------------------------
+Usage : Affiche des tableaux ou objets de manière lisible.
+Caractéristiques :
+Idéal pour debug visuel rapide
+Peut retourner une chaîne si on met true en deuxième paramètre
+
+$fruits = ["Pomme", "Banane", "Cerise"];
+echo "<h3>print_r</h3>";
+print_r($fruits);
+echo "<br>";
+
+// Exemple avec retour sous forme de chaîne
+$fruits_str = print_r($fruits, true);
+echo "print_r retourné : <pre>$fruits_str</pre>";
+
+// ----------------------------
+// Exemple 4 : var_dump
+// ----------------------------
+Usage : Affiche la valeur et le type des variables.
+Caractéristiques :
+Très utile pour le debug précis
+Affiche récursivement le contenu des tableaux ou objets
+
+$prix = 19.99;
+$valeurs = ["Alice", 25, true];
+echo "<h3>var_dump</h3>";
+var_dump($prix);
+echo "<br>";
+var_dump($valeurs);
+ -->
 ---
 
 ## 📌 **4. Opérations sur les variables**  
@@ -71,6 +134,8 @@ $b = 5;
 $somme = $a + $b; // 15
 $produit = $a * $b; // 50
 $division = $a / $b; // 2
+
+// https://www.w3schools.com/php/php_math.asp
 ```
 
 ### 🔹 **Modification de valeur**
@@ -106,6 +171,15 @@ Exemple avec `$_GET` :
 // URL: http://localhost/test.php?nom=Alice
 echo "Bonjour " . $_GET['nom']; // Bonjour Alice
 ```
+
+<!-- 
+https://www.w3schools.com/php/php_superglobals.asp
+https://www.w3schools.com/php/php_superglobals_globals.asp
+https://www.w3schools.com/php/php_superglobals_server.asp
+https://www.w3schools.com/php/php_superglobals_request.asp
+-->
+
+
 ### **Exercice 3 : Superglobale `$_GET`**  
 💡 Crée un fichier `index.php` et affiche un nom passé en paramètre via l'URL.  
 - URL : `http://localhost/index.php?nom=Alice`  
@@ -167,6 +241,8 @@ compteur(); // 5
 compteur(); // 4
 compteur(); // 3
 ```
+
+<!-- https://www.w3schools.com/php/php_variables_scope.asp -->
 ---
 
 ## 📌 **7. Conversion de type (Type Casting)**  
